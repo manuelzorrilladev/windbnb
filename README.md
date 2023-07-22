@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://weatherium-app.netlify.app">
+    <a href="https://celadon-gecko-72395a.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/manuelzorrilladev/weatherium">
+    <a href="https://github.com/manuelzorrilladev/windbnb">
       Solution
     </a>
     <span> | </span>
